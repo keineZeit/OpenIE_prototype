@@ -1,1 +1,0 @@
-# OpenIE_prototype
