@@ -1,0 +1,651 @@
+1.0 < India, of, largest real estate investment >
+1.0 < it, have, market capitalisation of us$ 10 billion >
+1.0 < it, have, market capitalisation >
+1.0 < it, have market capitalisation at, material time >
+1.0 < it, have, market capitalisation of over us$ 10 billion >
+1.0 < institution, be judgment follow, trial on merit of two related action bring by Claimants >
+1.0 < financial institution, be judgment follow, trial on merit of two related action bring by Claimants >
+0.6406007750331952 < Claimants, be, financial institution with operation in various part >
+1.0 < institution, be judgment follow, trial on merit of two related action bring by Claimants against Unitech >
+1.0 < financial institution, be judgment follow, trial on merit of two action bring against Unitech >
+1.0 < institution, be, judgment of Court follow trial on merit of two related action bring >
+0.6406007750331952 < Claimants, be, institution with operation in various part >
+0.6406007750331952 < Claimants, be institution with, operation >
+1.0 < financial institution, be judgment follow, trial on merit of two related action bring by Claimants against Unitech >
+1.0 < financial institution, be judgment follow, trial on merit of two action bring >
+1.0 < financial institution, be judgment follow, trial on merit of two action >
+1.0 < institution, be judgment follow, trial on merit of two related action >
+0.6406007750331952 < Claimants, be institution in, part of world.This >
+1.0 < institution, be judgment follow, trial on merit of two related action bring against Unitech >
+0.6406007750331952 < Claimants, be institution in, various part >
+0.6406007750331952 < Claimants, be institution in, various part of world.This >
+1.0 < institution, be judgment follow, trial on merit of two related action bring >
+1.0 < institution, be, judgment of Court follow trial on merit of two action >
+1.0 < institution, be judgment follow, trial on merit of two action >
+1.0 < institution, be judgment follow, trial on merit >
+0.6406007750331952 < Claimants, be, financial institution with operation in part of world.This >
+0.6406007750331952 < Claimants, be financial institution in, various part >
+0.6406007750331952 < Claimants, be financial institution in, various part of world.This >
+1.0 < financial institution, be judgment follow, trial on merit of two related action >
+1.0 < institution, be judgment of, Court >
+1.0 < institution, be, judgment of Court follow trial on merit of two action bring by Claimants >
+0.6406007750331952 < Claimants, be, financial institution with operation in part >
+1.0 < institution, in, various part of world.This >
+1.0 < institution, be, judgment of Court follow trial on merit of two related action >
+0.6406007750331952 < Claimants, be financial institution in, part >
+1.0 < institution, be, judgment >
+1.0 < institution, be, judgment of Court follow trial on merit >
+1.0 < financial institution, be judgment follow, trial on merit of two related action bring against Unitech >
+1.0 < financial institution, be judgment follow, trial >
+1.0 < financial institution, be judgment follow, trial on merit of two action bring by Claimants against Unitech >
+1.0 < institution, be judgment follow, trial on merit of two action bring by Claimants >
+1.0 < institution, be judgment follow, trial on merit of two action bring against Unitech >
+1.0 < institution, be judgment follow, trial on merit of two action bring by Claimants against Unitech >
+1.0 < institution, be judgment follow, trial >
+0.6406007750331952 < Claimants, be, institution with operation in part of world.This >
+0.6406007750331952 < Claimants, be institution in, part >
+0.6406007750331952 < Claimants, be, institution with operation in part >
+0.6406007750331952 < Claimants, be, institution >
+0.6406007750331952 < Claimants, be financial institution in, part of world.This >
+1.0 < financial institution, be, judgment >
+1.0 < institution, be, judgment of Court follow trial on merit of two action bring >
+0.6406007750331952 < Claimants, be, financial institution >
+1.0 < institution, be, judgment of Court follow trial >
+0.6406007750331952 < Claimants, be, financial institution with operation in various part of world.This >
+1.0 < financial institution, be judgment follow, trial on merit of two action bring by Claimants >
+1.0 < financial institution, be judgment follow, trial on merit >
+0.6406007750331952 < Claimants, be financial institution with, operation >
+1.0 < financial institution, be judgment follow, trial on merit of two related action bring >
+1.0 < institution, be judgment follow, trial on merit of two action bring >
+1.0 < institution, with, operation >
+0.6406007750331952 < Claimants, be, institution with operation in various part of world.This >
+1.0 < Court, hear, evidence from Mr Shah >
+0.8085468713944856 < Court, evidence from, Mr Shah >
+0.8085468713944856 < Court, evidence for, claimants.unitech on hand >
+1.0 < Court, hear, evidence from Mr Shah for claimants.unitech >
+1.0 < Court, hear, evidence from Mr Shah for claimants.unitech on other hand >
+1.0 < Court, hear, oral evidence >
+0.8085468713944856 < Court, evidence for, claimants.unitech on other hand >
+1.0 < Court, hear, oral evidence for claimants.unitech on hand >
+1.0 < Court, hear, evidence for claimants.unitech >
+1.0 < sum, fail, participate >
+1.0 < Court, hear, oral evidence from Mr Shah >
+1.0 < Court, hear, oral evidence for claimants.unitech on other hand >
+0.8085468713944856 < Court, oral evidence from, Mr Shah >
+0.8085468713944856 < Court, oral evidence for, claimants.unitech on other hand >
+0.8085468713944856 < Court, oral evidence for, claimants.unitech >
+0.8085468713944856 < Court, evidence for, claimants.unitech >
+1.0 < Court, hear, evidence for claimants.unitech on other hand >
+1.0 < sum, fail, participate at trial >
+1.0 < Court, hear, evidence from Mr Shah for claimants.unitech on hand >
+1.0 < Court, hear, oral evidence from Mr Shah for claimants.unitech on other hand >
+1.0 < Court, hear, oral evidence from Mr Shah for claimants.unitech >
+1.0 < Court, hear, evidence for claimants.unitech on hand >
+1.0 < sum, exceed, us$ 300 >
+0.8085468713944856 < Court, oral evidence for, claimants.unitech on hand >
+1.0 < Court, hear, oral evidence from Mr Shah for claimants.unitech on hand >
+1.0 < Court, hear, oral evidence for claimants.unitech >
+1.0 < Court, hear, evidence >
+1.0 < Unitech, have agree, engage >
+1.0 < Unitech, have agree, jurisdiction of court >
+1.0 < Unitech, have agree, jurisdiction of court include >
+1.0 < Unitech, have agree, actively engage in litigation >
+1.0 < Unitech, have agree, jurisdiction include >
+1.0 < Unitech, have agree, jurisdiction >
+1.0 < Unitech, have agree, actively engage >
+1.0 < Unitech, have agree, engage until June 2017 >
+1.0 < Unitech, have agree, engage in litigation >
+1.0 < Unitech, inform of, material development >
+1.0 < Unitech, have, have keep >
+0.6140426780753424 < form, part of, Credit Agreement.The guarantee provide >
+1.0 < Unitech, be guarantor of, UGL 's obligation under Credit Agreement >
+0.6140426780753424 < form, part of, Credit Agreement.The guarantee >
+1.0 < Unitech, owner of, UGL >
+1.0 < guarantor, claimant on, 19 September 2007 >
+1.0 < UGL, of, obligation under Credit Agreement pursuant guarantee form >
+1.0 < Unitech, be, guarantor >
+1.0 < guarantor, claimant in, second action >
+1.0 < UGL, to, liability >
+1.0 < Claimant, in, second action >
+0.9652381129169338 < Unitech, owner of, UGL >
+0.6140426780753424 < form, part of, Credit Agreement.The guarantee provide by Unitech >
+1.0 < Unitech, be guarantor of, UGL 's obligation >
+1.0 < UGL 's obligation, of guarantor, Claimant in second action on 19 September 2007 >
+0.9652381129169338 < Unitech, ultimate owner of, UGL >
+1.0 < swap, be part of, same transaction >
+1.0 < swap, be, part of same transaction as Credit Agreement >
+1.0 < swap, be, part of same overall transaction as Credit Agreement >
+1.0 < swap, be, part >
+1.0 < swap, be part of, transaction >
+1.0 < swap, be, part of transaction as Credit Agreement >
+1.0 < swap, be part of, same overall transaction >
+1.0 < swap, be part as, Credit Agreement >
+1.0 < swap, be, part of overall transaction as Credit Agreement >
+1.0 < swap, be part of, overall transaction >
+1.0 < Lenders, seek, judgment against Unitech >
+1.0 < Lenders, seek judgment under, guarantee in respect of unpaid borrowing >
+1.0 < Lenders, seek, judgment >
+1.0 < swap, be terminate upon, default >
+1.0 < guarantee, in, respect of unpaid borrowing of ugl >
+1.0 < Lenders, seek judgment under, guarantee in respect of unpaid borrowing of ugl >
+1.0 < Lenders, seek judgment under, guarantee in respect of borrowing of ugl >
+1.0 < swap, be, terminate in July 2011 upon default by UGL.In >
+1.0 < swap, be, terminate >
+0.30618288605571936 < Lenders, judgment against, Unitech >
+1.0 < swap, be, terminate in July 2011 upon default >
+1.0 < Lenders, seek judgment under, guarantee in respect of borrowing >
+1.0 < swap, be terminate upon, default by UGL.In >
+1.0 < swap, be terminate in, July 2011 >
+1.0 < Lenders, seek judgment under, guarantee in respect >
+1.0 < Lenders, seek judgment under, guarantee >
+1.0 < guarantee, in, respect of unpaid sum due under swap.there >
+1.0 < agreement, with, Claimants >
+1.0 < junior level, with, other include Mr JP Mehrotra.A term sheet sign on db >
+1.0 < negotiation, take place at, junior level with other include Mr JP Mehrotra.A term sheet sign >
+1.0 < negotiation, take place at, junior level with other >
+1.0 < negotiation, take place on, unitech/ugl side >
+1.0 < negotiation, take place at, level with other include Mr JP Mehrotra.A term sheet >
+1.0 < negotiation, take place at, junior level >
+1.0 < negotiation, take place at, more junior level with other include Mr JP Mehrotra.A term sheet >
+1.0 < negotiation, take place at, level with other >
+1.0 < negotiation, take place at, more junior level with other include Mr JP Mehrotra.A term sheet sign >
+1.0 < negotiation, take place at, level >
+1.0 < negotiation, take, place >
+1.0 < negotiation, take place at, junior level with other include Mr JP Mehrotra.A term sheet >
+1.0 < negotiation, take place at, more junior level with other >
+1.0 < negotiation, take place at, level with other include Mr JP Mehrotra.A term sheet sign >
+1.0 < negotiation, take place at, more junior level >
+1.0 < effect, be, feel >
+1.0 < matter, send, draft of Credit Agreement >
+1.0 < matter, have progress sufficiently for, db >
+1.0 < serious global difficulty, in, credit >
+1.0 < effect, come, feel include on liquidity >
+1.0 < effect, be feel include, include liquidity >
+1.0 < effect, come, feel >
+1.0 < matter, have progress for, db >
+1.0 < matter, send, draft >
+1.0 < matter, send draft to, Unitech >
+1.0 < matter, send draft for, its initial comments.by >
+1.0 < matter, send draft for, its comments.by >
+1.0 < indicated margin, increase to, at least 350 basis point >
+1.0 < margin, increase to, at least 350 basis point >
+1.0 < db, raise, idea >
+1.0 < cost, be, reduce >
+0.990309933762432 < cost reduction, be, discuss >
+1.0 < Unitech, achieve, cost reduction >
+1.0 < Unitech, be receptive to, idea.different structure >
+0.990309933762432 < desire cost reduction, be, discuss internally >
+1.0 < db, in, early September >
+0.990309933762432 < desire cost reduction, be discuss internally by, db >
+0.990309933762432 < cost reduction, still be discuss by, db >
+0.990309933762432 < cost reduction, be discuss internally by, db >
+1.0 < Unitech, be receptive to, idea.different structure of swap >
+0.990309933762432 < cost reduction, be discuss by, db >
+0.990309933762432 < cost reduction, be, still discuss internally >
+0.990309933762432 < desire cost reduction, be discuss by, db in early September >
+0.990309933762432 < cost reduction, be, still discuss >
+0.990309933762432 < cost reduction, be discuss internally by, db in September >
+0.990309933762432 < desire cost reduction, be, still discuss internally >
+0.990309933762432 < desire cost reduction, still be discuss internally by, db >
+0.990309933762432 < cost reduction, be discuss by, db in September >
+0.990309933762432 < cost reduction, still be discuss internally by, db in early September >
+0.990309933762432 < cost reduction, be discuss by, db in early September >
+0.990309933762432 < desire cost reduction, still be discuss by, db in early September >
+0.990309933762432 < desire cost reduction, be, discuss >
+0.990309933762432 < cost reduction, still be discuss by, db in early September >
+0.990309933762432 < cost reduction, be discuss internally by, db in early September >
+0.990309933762432 < desire cost reduction, still be discuss by, db >
+1.0 < Unitech, be, receptive >
+0.990309933762432 < cost reduction, be, discuss internally >
+0.990309933762432 < cost reduction, still be discuss internally by, db >
+0.990309933762432 < cost reduction, still be discuss internally by, db in September >
+1.0 < Unitech, be receptive to, structure >
+1.0 < Unitech, achieve, desire cost reduction >
+0.990309933762432 < desire cost reduction, be discuss internally by, db in September >
+0.990309933762432 < desire cost reduction, be discuss by, db in September >
+0.990309933762432 < desire cost reduction, still be discuss internally by, db in early September >
+0.990309933762432 < desire cost reduction, still be discuss by, db in September >
+0.990309933762432 < desire cost reduction, be discuss by, db >
+0.990309933762432 < cost reduction, still be discuss by, db in September >
+0.990309933762432 < desire cost reduction, still be discuss internally by, db in September >
+1.0 < Unitech, be receptive to, structure of swap >
+0.990309933762432 < desire cost reduction, be discuss internally by, db in early September >
+0.990309933762432 < desire cost reduction, be, still discuss >
+1.0 < email, show, three different trade idea >
+1.0 < email, show, three trade idea >
+1.0 < this, be, integral >
+1.0 < I, be separately send shortly, covenant >
+1.0 < I, be send shortly, covenant >
+1.0 < I, be separately send, covenant >
+1.0 < I, be send, covenant >
+1.0 < db, attach negotiation for, four different swaps.following >
+1.0 < db, attach negotiation for, four swaps.following >
+1.0 < db, attach, four term sheet >
+1.0 < db, attach, further negotiation >
+1.0 < db, attach, negotiation by email >
+1.0 < db, attach, further negotiation by email >
+1.0 < db, attach, negotiation >
+1.0 < final offer, in, relation to covenant >
+1.0 < arrangement, be, be make for they execution >
+1.0 < base, be, nearly complete >
+1.0 < Unitech, be ok with, swap >
+1.0 < Unitech, be, ok >
+1.0 < base, be, complete >
+1.0 < arrangement, be, be make >
+1.0 < Unitech, be ok from, four offer >
+1.0 < Unitech, be, ok with swap from four offer >
+1.0 < DB, speak on, 19 September 2007 >
+1.0 < DB London Branch, be, float rate payer >
+1.0 < DB London Branch, be, rate payer >
+1.0 < n, be, number >
+1.0 < n, be, where number >
+1.0 < number, in, relevant period >
+1.0 < n, be number of, business day >
+1.0 < n, be, where number of business day >
+1.0 < n/m, be, number of business day in relevant period >
+1.0 < confirmation, would form part pend, such execution >
+0.7903715561734792 < confirmation, part of, agreement in form >
+1.0 < confirmation, would form, part of agreement in form of 2002 ISDA Master Agreement >
+1.0 < confirmation, would form part with, certain detail >
+1.0 < confirmation, would form part with, specify detail >
+1.0 < confirmation, would form, part of agreement in form >
+1.0 < agreement, in, form of 2002 ISDA Master Agreement >
+1.0 < agreement, in, form of 2002 ISDA Master Agreement >
+0.7903715561734792 < confirmation, part of, agreement >
+1.0 < confirmation, would form part with, certain specify detail >
+0.7903715561734792 < confirmation, part of, agreement in form of 2002 ISDA Master Agreement >
+1.0 < confirmation, would form part pend, execution >
+1.0 < confirmation, would form, part of agreement >
+1.0 < confirmation, would form part with, detail >
+1.0 < confirmation, would form, part >
+1.0 < party, agree, negotiate >
+0.9044468836791562 < primary driver, be as, cost reduction mechanism >
+1.0 < document, support, db 's case >
+1.0 < contemporaneous document, support, db 's case >
+1.0 < document, clearly support, db 's case >
+0.9044468836791562 < swap, driver of be, cost reduction mechanism >
+1.0 < db, have, case >
+0.9044468836791562 < swap, primary driver of be, cost reduction mechanism >
+0.9044468836791562 < driver, be as, cost reduction mechanism >
+1.0 < contemporaneous document, clearly support, db 's case >
+0.6405397952301926 < derivative, choose by, Unitech >
+1.0 < connection, with, facility >
+1.0 < money, be, use >
+1.0 < money, be, only use >
+1.0 < UGL, be, incorporate >
+1.0 < UGL, be incorporate in, one of Cyprus >
+1.0 < UGL, be incorporate in, one Cyprus >
+1.0 < loan, be, by clause 6 Credit Agreement repayable in four instalment >
+1.0 < loan, be, by clause 6 Credit Agreement repayable in four >
+1.0 < loan, be, repayable in four instalment >
+1.0 < loan, be, by clause 6 repayable approximately equal instalment >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable in four approximately equal instalment >
+1.0 < loan, be, by clause 6 Credit Agreement repayable approximately equal instalment >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable equal instalment >
+1.0 < loan, be, by clause 6 Credit Agreement repayable in four equal instalment >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable in four equal instalment >
+1.0 < loan, be, repayable in four equal instalment >
+1.0 < loan, be, by clause 6 repayable in four equal instalment >
+1.0 < loan, be, by clause 6 Credit Agreement repayable in four approximately equal instalment >
+1.0 < loan, be repayable by, clause 6 >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable in four >
+1.0 < loan, be repayable, approximately equal instalment >
+1.0 < loan, be repayable by, clause 6 of Credit Agreement >
+1.0 < loan, be, by clause 6 repayable in four >
+1.0 < loan, be repayable, instalment >
+1.0 < loan, be, by clause 6 repayable equal instalment >
+1.0 < loan, be, repayable >
+1.0 < loan, be, by clause 6 Credit Agreement repayable equal instalment >
+1.0 < loan, be, by clause 6 repayable instalment >
+1.0 < loan, be, by clause 6 repayable in four instalment >
+1.0 < loan, be, by clause 6 Credit Agreement repayable instalment >
+1.0 < loan, be, repayable in four approximately equal instalment >
+1.0 < loan, be repayable in, four >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable approximately equal instalment >
+1.0 < loan, be repayable by, clause 6 Credit Agreement >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable instalment >
+1.0 < loan, be repayable, equal instalment >
+1.0 < loan, be, by clause 6 repayable in four approximately equal instalment >
+1.0 < loan, be, by clause 6 of Credit Agreement repayable in four instalment >
+1.0 < first instalment, be, due 24 month >
+1.0 < instalment, be, 24 month after drawdown i.e. by 24 September 2012 >
+1.0 < first instalment, be, 24 month after drawdown >
+1.0 < first instalment, be, 24 month after drawdown i.e. by 24 September 2012 >
+1.0 < first instalment, be, 24 month after drawdown i.e. >
+1.0 < first instalment, be, due 24 month after drawdown i.e. by 24 September 2012 >
+1.0 < instalment, be, due 24 month after drawdown >
+1.0 < first instalment, be, due 24 month after drawdown >
+1.0 < instalment, be, 24 month after drawdown i.e. >
+1.0 < instalment, be, 24 month after drawdown >
+1.0 < first instalment, be, 24 month >
+1.0 < instalment, be, due 24 month >
+1.0 < first instalment, be, due 24 month after drawdown i.e. >
+1.0 < instalment, be, due 24 month after drawdown i.e. by 24 September 2012 >
+1.0 < instalment, be, 24 month >
+1.0 < instalment, be, due 24 month after drawdown i.e. >
+1.0 < interest, be, by clause 8.1 of Credit Agreement payable on loan >
+1.0 < interest, be payable by, clause 8.1 Credit Agreement >
+1.0 < interest, be payable by, clause 8.1 of Credit Agreement >
+1.0 < interest, be, by clause 8.1 payable on loan >
+1.0 < interest, be payable by, clause 8.1 >
+1.0 < interest, be payable on, loan >
+1.0 < interest, be, by clause 8.1 Credit Agreement payable on loan >
+1.0 < interest, be, payable >
+1.0 < guarantee, form, clause 15.1 Credit Agreement >
+1.0 < Indemnity, form, clause 15.1 Credit Agreement >
+1.0 < guarantee, form, clause 15.1 of Credit Agreement >
+1.0 < Indemnity, form, clause 15.1 of Credit Agreement >
+1.0 < Unitech, guarantee, performance >
+1.0 < Unitech, guarantee performance by, ugl >
+1.0 < Unitech, guarantee performance by, ugl of its obligation >
+1.0 < Unitech, guarantee, punctual performance >
+1.0 < Unitech, indemnify, Claimants >
+1.0 < Facility Agent, be entitle follow, event >
+1.0 < Facility Agent, be, entitle >
+1.0 < Facility Agent, be entitle follow, event of Default >
+1.0 < second, become between, 12 March 2008 >
+1.0 < second, also become between, 12 March 2008 >
+1.0 < second, become pursuant to, Lenders transfer provision >
+1.0 < second, also become pursuant to, Lenders transfer provision >
+1.0 < I, take, opportunity >
+1.0 < Unitech, put, Lenders >
+1.0 < I, take opportunity at, point >
+1.0 < I, be satisfy on, documentary evidence available >
+1.0 < I, be satisfy on, documentary evidence available at trial >
+1.0 < Unitech, put lenders to, proof >
+1.0 < I, take opportunity, confirm >
+1.0 < I, be satisfy on, documentary evidence >
+1.0 < I, be, satisfy >
+1.0 < ugl, repay loan in, accordance >
+1.0 < ugl, repay loan with, clause 6 >
+1.0 < ugl, repay, loan >
+1.0 < it, be in, consistently default >
+1.0 < Unitech, agree to, repayment schedule >
+1.0 < Unitech, agree to, new repayment schedule >
+1.0 < loan, be, early restructure >
+1.0 < UGL, agree to, new repayment schedule >
+1.0 < loan, be restructure by, way >
+1.0 < loan, be, restructure >
+1.0 < it, be in, default >
+1.0 < UGL, agree to, repayment schedule >
+1.0 < loan, early be restructure by, way >
+0.9732461494686668 < make, demand for, repayment of full outstanding amount >
+1.0 < Lenders, make, demand on ugl for repayment of full outstanding amount >
+0.9732461494686668 < make, demand for, repayment of amount >
+1.0 < Lenders, make, demand for repayment of amount of loan >
+0.9732461494686668 < make, demand for, repayment of full amount of loan >
+1.0 < Lenders, make, demand for repayment of full outstanding amount >
+1.0 < Lenders, make, demand for repayment of amount >
+0.9732461494686668 < make, demand for, repayment of amount of loan >
+1.0 < Lenders, make, demand on ugl for repayment >
+1.0 < Lenders, make, demand on ugl for repayment of full amount >
+1.0 < Lenders, accelerate loan on, 11 March 2011 >
+1.0 < Lenders, make, demand >
+1.0 < Lenders, make, demand for repayment of outstanding amount >
+1.0 < Lenders, make, demand on ugl for repayment of amount >
+0.9732461494686668 < make, demand for, repayment of full amount >
+1.0 < Lenders, consequently accelerate loan on, 11 March 2011 >
+1.0 < Lenders, make, demand on ugl >
+1.0 < Lenders, make, demand on ugl for repayment of full amount of loan >
+1.0 < Lenders, make, demand on ugl for repayment of outstanding amount of loan >
+0.9732461494686668 < make, demand for, repayment of full outstanding amount of loan >
+0.9732461494686668 < make, demand for, repayment of outstanding amount of loan >
+0.9732461494686668 < make, demand for, repayment of outstanding amount >
+1.0 < Lenders, make, demand for repayment of full amount >
+1.0 < Lenders, make, demand on ugl for repayment of full outstanding amount of loan >
+0.9732461494686668 < make, demand for, repayment >
+1.0 < Lenders, consequently accelerate, loan >
+1.0 < Lenders, make, demand on ugl for repayment of outstanding amount >
+1.0 < Lenders, make, demand for repayment >
+1.0 < Lenders, make, demand on ugl for repayment of amount of loan >
+1.0 < Lenders, make, demand for repayment of full amount of loan >
+0.9732461494686668 < make, demand on, ugl >
+1.0 < Lenders, make, demand for repayment of outstanding amount of loan >
+1.0 < Lenders, accelerate, loan >
+1.0 < Lenders, make, demand for repayment of full outstanding amount of loan >
+1.0 < Master Agreement, of section, a >
+1.0 < Master Agreement, of section, i >
+1.0 < ugl, to way, copying Unitech >
+1.0 < Notice, be, give by db by way on 13 July 2011 >
+1.0 < Notice, be give by, way of letter on 13 July 2011 >
+1.0 < Notice, be, give by db by way of letter on 13 July 2011 failure pay >
+1.0 < Notice, be, give by db by way to ugl on 13 July 2011 >
+1.0 < Notice, be, give by db by way >
+1.0 < Notice, be give by, way of letter to ugl on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be, give by db by way of letter to ugl >
+1.0 < Notice, be, give by db by way of letter to ugl on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be give by, way of letter to ugl on 13 July 2011 failure pay >
+1.0 < Notice, be, give by db by way to ugl >
+1.0 < Notice, be give by, way of letter to ugl on 13 July 2011 failure pay in breach >
+1.0 < Master Agreement, of section, a >
+1.0 < Notice, be give by, db >
+1.0 < Notice, be give by, copying Unitech >
+1.0 < Notice, be give by, way on 13 July 2011 failure pay in breach >
+1.0 < Notice, be, give by db by way to ugl on 13 July 2011 failure pay in breach >
+1.0 < Notice, be give by, way to ugl on 13 July 2011 >
+1.0 < Notice, be, give by db by way on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be, give by db by way on 13 July 2011 failure pay in breach >
+1.0 < Notice, be, give by db by way on 13 July 2011 failure pay >
+1.0 < Notice, be, give by db by way of letter on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be give by, way >
+1.0 < Notice, be give by, way on 13 July 2011 >
+1.0 < Notice, be, give >
+1.0 < Notice, be, give by db by way to ugl on 13 July 2011 failure pay >
+1.0 < Notice, be give by, way to ugl on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be give by, way of letter on 13 July 2011 failure pay >
+1.0 < Notice, be, give by db by way of letter to ugl on 13 July 2011 failure pay >
+1.0 < Notice, be give by, way of letter to ugl on 13 July 2011 >
+1.0 < 13 July 2011, on way, copying Unitech >
+1.0 < Notice, be give by, way of letter on 13 July 2011 failure pay in breach >
+1.0 < Notice, be give by, way to ugl on 13 July 2011 failure pay >
+1.0 < Notice, be give by, way of letter on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be, give by db by way of letter on 13 July 2011 failure pay in breach >
+1.0 < Notice, be give by, way to ugl on 13 July 2011 failure pay in breach >
+1.0 < Notice, be give by, way of letter >
+1.0 < Notice, be give by, way on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < Notice, be, give by db by way of letter >
+1.0 < Notice, be, give by db by way to ugl on 13 July 2011 failure pay in breach of Master Agreement >
+1.0 < letter, of way, copying Unitech >
+1.0 < Notice, be, give by db by way of letter on 13 July 2011 >
+1.0 < Notice, be give by, way to ugl >
+1.0 < Notice, be, give by db by way of letter to ugl on 13 July 2011 failure pay in breach >
+1.0 < Notice, be, give by db by way of letter to ugl on 13 July 2011 >
+1.0 < Notice, be give by, way of letter to ugl >
+1.0 < Notice, be give by, way on 13 July 2011 failure pay >
+1.0 < interest interest would continue, be, make by ugl >
+1.0 < interest interest, accrue under, term of swap.no payment in respect >
+0.7073200898175578 < termination amount, be, USD 11,055,487 >
+1.0 < interest interest, accrue under, term >
+1.0 < interest interest would continue, be, make >
+1.0 < interest interest, accrue under, term of swap.no payment in respect of early termination amount >
+1.0 < interest interest, accrue under, term of swap.no payment in respect of termination amount >
+1.0 < Master Agreement, of clause, d >
+0.7073200898175578 < early termination amount, be, USD 11,055,487 >
+1.0 < 20 July, on ugl, copying Unitech >
+1.0 < interest interest, accrue under, term of swap.no payment >
+1.0 < swap.no payment, in, respect of early termination amount >
+0.9678410614612526 < DB, amount to, USD 8,025 >
+1.0 < DB, send, demand Notice to Unitech as Guarantor >
+0.9678410614612526 < 2011 DB, amount to, USD 8,025 >
+1.0 < DB, send, demand Notice as Guarantor under guarantee >
+1.0 < interest interest, continue, accrue >
+1.0 < DB, send, demand Notice >
+1.0 < they original defence, in, action number cl-2011-001025 >
+1.0 < DB, send, demand Notice to Unitech under guarantee >
+1.0 < DB, send, demand Notice to Unitech as Guarantor under guarantee >
+1.0 < interest interest, accrue under, term >
+1.0 < DB, send, demand Notice to Unitech >
+1.0 < DB, send, demand Notice as Guarantor >
+1.0 < DB, send, demand Notice under guarantee >
+1.0 < interest interest, continue, accrue under term >
+1.0 < it, have, two distinct aspect plead >
+1.0 < it, have, two aspect plead >
+1.0 < second aspect, in, January 2013 >
+1.0 < guarantee, in, first aspect >
+1.0 < indemnity.unitech, have, case >
+1.0 < UGL/Unitech, have, exposure under Credit Agreement >
+1.0 < suitability recommendation, arise from, circumstance include recommendation >
+1.0 < alleged suitability recommendation, be say, arise from circumstance include last-minute recommendation >
+1.0 < alleged suitability recommendation, arise from, circumstance include last-minute recommendation >
+1.0 < suitability recommendation, be say, arise from circumstance >
+1.0 < suitability recommendation, arise from, circumstance >
+1.0 < alleged suitability recommendation, arise from, circumstance include recommendation >
+1.0 < alleged suitability recommendation, be say, arise from circumstance include recommendation make >
+1.0 < alleged suitability recommendation, arise from, circumstance >
+1.0 < alleged suitability recommendation, arise from, circumstance include recommendation make >
+1.0 < alleged suitability recommendation, be say, arise >
+1.0 < suitability recommendation, be, say >
+1.0 < suitability recommendation, arise from, circumstance include recommendation make >
+1.0 < alleged suitability recommendation, be say, arise from circumstance >
+1.0 < suitability recommendation, be say, arise from circumstance include last-minute recommendation >
+1.0 < alleged suitability recommendation, be, say >
+1.0 < alleged suitability recommendation, be say, arise from circumstance include last-minute recommendation make >
+1.0 < suitability recommendation, arise from, circumstance include last-minute recommendation make >
+1.0 < suitability recommendation, be say, arise from circumstance include recommendation >
+1.0 < suitability recommendation, be say, arise >
+1.0 < alleged suitability recommendation, be say, arise from circumstance include recommendation >
+1.0 < suitability recommendation, arise from, circumstance include last-minute recommendation >
+1.0 < alleged suitability recommendation, arise from, circumstance include last-minute recommendation make >
+1.0 < suitability recommendation, be say, arise from circumstance include last-minute recommendation make >
+1.0 < suitability recommendation, be say, arise from circumstance include recommendation make >
+1.0 < minimum rate, of cost, d >
+1.0 < alleged suitability recommendation, be allege, Unitech false >
+1.0 < swap, be, unsuitable >
+1.0 < mismatch, in, notional between swap >
+1.0 < alleged downward trend, in, 6M USD LIBOR >
+1.0 < suitability recommendation, be allege, Unitech false on grounds >
+0.5113423788803879 < Unitech, false on, grounds >
+1.0 < alleged suitability recommendation, be allege, Unitech false on grounds >
+1.0 < mismatch, in, duration between swap >
+1.0 < suitability recommendation, be allege, Unitech false >
+1.0 < swap, be, unsuitable >
+1.0 < DB, make, misrepresentation >
+1.0 < 6 Unitech, be, able >
+1.0 < DB, make, imply misrepresentation >
+1.0 < DB, make, various misrepresentation >
+1.0 < Claimants ' claim, must fail against, it.The aspect >
+1.0 < Claimants ' claim, must fail against, it.The second aspect >
+1.0 < 6 Unitech, be, therefore able >
+1.0 < db, about, involvement in LIBOR setting process >
+0.8542142355164093 < DB, various imply misrepresentation about, LIBOR >
+1.0 < DB, make, imply misrepresentation about LIBOR >
+1.0 < DB, make, misrepresentation about LIBOR >
+0.8542142355164093 < DB, various misrepresentation about, LIBOR >
+1.0 < DB, make, various imply misrepresentation about LIBOR >
+1.0 < it, rescind, Indemnity >
+1.0 < Claimants ' claim, must fail against, it.The aspect of Misrepresentation Defence >
+1.0 < Unitech, be, therefore able >
+0.8542142355164093 < DB, misrepresentation about, LIBOR >
+1.0 < DB, make, various imply misrepresentation >
+1.0 < Unitech, be, able >
+1.0 < db 's involvement, in, LIBOR setting process >
+1.0 < DB, make, various misrepresentation about LIBOR >
+1.0 < it, rescind, guarantee >
+0.8542142355164093 < DB, imply misrepresentation about, LIBOR >
+1.0 < it, be, claim >
+1.0 < Claimants ' claim, must fail against, it.The second aspect of Misrepresentation Defence >
+1.0 < it, be, again claim >
+1.0 < it, be, make >
+1.0 < question, include, requirement on part of party >
+1.0 < it, be aware of, representation at time >
+1.0 < it, be, aware >
+1.0 < question, include, requirement on part >
+1.0 < it, be aware of, representation >
+1.0 < question, include, requirement >
+0.9009711679433988 < requirement, question of, reliance >
+1.0 < existence, be support by, lead textbook >
+1.0 < Judge, go, show >
+1.0 < existence, be support by, exist authority >
+1.0 < existence, be, support by exist authority by lead textbook include authority >
+1.0 < existence, be, support by authority by textbook include authority >
+1.0 < existence, be, support by exist authority by textbook include authority >
+0.8388808516151527 < db, representation about, LIBOR >
+1.0 < existence, be support by, textbook include authority >
+1.0 < existence, be support by, textbook >
+1.0 < db, make, alleged suitability recommendation >
+1.0 < existence, be support by, authority >
+1.0 < db, make, representation >
+1.0 < db, make, alleged representation >
+1.0 < existence, be, support by authority by lead textbook include authority >
+1.0 < existence, be, support by exist authority by textbook >
+1.0 < existence, be, support >
+1.0 < db, make, suitability recommendation >
+1.0 < existence, be support by, lead textbook include authority >
+1.0 < existence, be, support by authority by lead textbook >
+0.8388808516151527 < db, alleged representation about, LIBOR >
+1.0 < existence, be, support by exist authority by lead textbook >
+1.0 < db, make, alleged representation about LIBOR >
+1.0 < db, make, representation about LIBOR >
+1.0 < existence, be, support by authority by textbook >
+1.0 < communication, with, db >
+1.0 < it, draw, inference >
+1.0 < it, draw inference from, surround circumstance >
+1.0 < it, be, possible >
+1.0 < it, draw inference from, circumstance >
+1.0 < it, be, difficult >
+1.0 < representation, be allegedly make in, September 2007 >
+1.0 < representation, be, allegedly make >
+1.0 < representation, be, make >
+1.0 < representation, be make in, September 2007 >
+1.0 < Court, have have, benefit of presentation >
+1.0 < it, enter in, judgment >
+1.0 < Court, have, argument >
+1.0 < Court, have have, benefit of presentation of professional quality >
+1.0 < Court, have have, benefit of presentation of highest professional quality >
+1.0 < Court, have have, benefit of presentation of highest quality >
+1.0 < Court, have have, benefit >
+1.0 < Court, have have, benefit of presentation of quality >
+1.0 < I, pay, tribute to Mr Richard Handyside QC >
+1.0 < I, pay, tribute >
+1.0 < Unitech, include, allegation >
+1.0 < Unitech, include, allegation of fraud >
+1.0 < Unitech, include, allegation in course >
+1.0 < Unitech, include, allegation in course of its Misrepresentation Defence >
+1.0 < allegation, in, course of its Misrepresentation Defence >
+1.0 < Unitech, include, allegation of fraud in course of its Misrepresentation Defence >
+1.0 < Unitech, include, allegation of fraud in course >
+1.0 < Unitech, take step specifically, withdraw >
+1.0 < Unitech, take, step >
+1.0 < Unitech, take step, withdraw >
+1.0 < Unitech, take specifically, step >
+1.0 < it, be, discredit >
+0.7992697797462196 < swap, be, even when take >
+0.7992697797462196 < swap, be take into, account >
+1.0 < figure, include, default interest >
+1.0 < claim, take, account of fact >
+1.0 < figure, include, default interest charge with clause 8.3 >
+1.0 < figure, include, default interest charge >
+1.0 < figure, include, default interest charge in accordance >
+0.7992697797462196 < swap, be, when take >
+0.7992697797462196 < swap, be, when take into account >
+0.7992697797462196 < swap, be, even when take into account >
+0.7992697797462196 < swap, be, take >
+1.0 < figure, include, default interest charge in accordance with clause 8.3 >
+1.0 < claim, take, account >
+1.0 < favour, in, first of two action >
+1.0 < Court, will enter, favour of Lenders >
+1.0 < Court, will enter, favour >
+1.0 < two action, in, sum of USD 293,476,217.37 >
+1.0 < Court, will enter, favour in first of two action in sum >
+1.0 < Court, will enter, favour in first of two action in sum of USD 293,476,217.37 >
+1.0 < Court, will enter, favour in first >
+1.0 < Court, will enter, judgment >
+1.0 < Court, will enter, favour of Lenders in first >
+1.0 < Court, will enter, favour of Lenders in first of two action in sum >
+1.0 < Court, will enter, favour of Lenders in first of two action in sum of USD 293,476,217.37 >
+1.0 < Court, will enter, favour in first of two action >
+1.0 < Court, will enter, judgment against Unitech >
+1.0 < Court, will enter, favour of Lenders in first of two action >
+1.0 < sum, comprise, early termination amount >
+1.0 < sum, comprise, interest >
+0.7465525913740296 < sum, seek by, db >
+1.0 < sum, regard, swap >
+1.0 < sum, comprise, termination amount >
+1.0 < ugl, be, inform >
+1.0 < ugl, be, inform of early termination >
+1.0 < ugl, be, inform of termination >
+1.0 < Unitech 's Amended Defence, in, second of two action >
+1.0 < Unitech, have, Amended Defence in second of two action >
+1.0 < Mr Snelling, give as, evidence >
+1.0 < Mr Snelling, give, evidence >
+1.0 < Court, accept, evidence >
